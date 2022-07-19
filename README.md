@@ -189,3 +189,6 @@ You can also have the owner of the pet and paw contracts (accounts[0] by default
 > let currentTokenId = await pet.currentTokenId()
 > await pet.ownerOf(currentTokenId)
 ```
+
+## Credits
+We would like to thank Pan Chasinga from the Filecoin Foundation for authoring this assignment as its primary contributor!
