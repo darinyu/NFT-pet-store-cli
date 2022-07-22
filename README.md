@@ -2,6 +2,8 @@
 
 Open-source Pet store with PET and PAW tokens.
 
+Implement the contracts in the "contracts" folder according to the instructions laid out in the files.  Then, you can proceed with the following steps to test your smart contracts.
+
 ## Getting started
 
 First, create a .env file in the root folder and fill it with the following:
